@@ -1,5 +1,5 @@
- # hey, i'm swasti 👋
-<h1 align="center">hey, i'm swasti 👋</h1>
+
+<h1 align="center">hey, i'm Swasti ;)</h1>
 
 <p align="center">
   <b>CS × AI × Data × Creating Things</b>
